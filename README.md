@@ -1,3 +1,27 @@
+## Project Requirements ##
+De-Mystifying ML<br />
+Fins a Problem woth Solving, analyzing, or Visualzing<br />
+Use ML in the context of technologies learned<br />
+Sci-Kit Learn and/or another machine learning library<br />
+
+2 of the following<br />
+Python Pandas<br />
+Python Matplotlib<br />
+VBA<br />
+Python Flask<br />
+HTML/CSS/Bootstrap<br />
+JavaScript Plotly<br />
+JavaScript D3.js<br />
+JavaScript Leaflet<br />
+MySQL Database<br />
+MongoDB Database<br />
+Heroku + Postgres<br />
+1 Tableau Story<br />
+2 Tableau Stories (if using Panads and developing an advanced ML algorithm)<br />
+-demonstrate ML development process<br />
+-data insights<br />
+
+
 ## Final Project Team Members
 Mark Yocum<br />
 Hubert Cheng<br />
