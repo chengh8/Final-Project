@@ -1,27 +1,3 @@
-## Project Requirements ##
-De-Mystifying ML<br />
-Fins a Problem woth Solving, analyzing, or Visualzing<br />
-Use ML in the context of technologies learned<br />
-Sci-Kit Learn and/or another machine learning library<br />
-
-2 of the following<br />
-Python Pandas<br />
-Python Matplotlib<br />
-VBA<br />
-Python Flask<br />
-HTML/CSS/Bootstrap<br />
-JavaScript Plotly<br />
-JavaScript D3.js<br />
-JavaScript Leaflet<br />
-MySQL Database<br />
-MongoDB Database<br />
-Heroku + Postgres<br />
-1 Tableau Story<br />
-2 Tableau Stories (if using Panads and developing an advanced ML algorithm)<br />
--demonstrate ML development process<br />
--data insights<br />
-
-
 ## Final Project Team Members
 Mark Yocum<br />
 Hubert Cheng<br />
@@ -32,9 +8,11 @@ Mahtab Karimipour<br />
 
 Wine Quality Dataset for Vinho Verde red/white wine.
 
-#### Model Used
-
-<br />
+#### Models Explored
+Classification<br />
+Random Forest / Cross Validation<br />
+KNN<br />
+Linear Regression<br />
 
 ## Attribute Information:
 
@@ -70,18 +48,3 @@ these datasets under a regression approach. The support vector machine model ach
 best results. Several metrics were computed: MAD, confusion matrix for a fixed error tolerance (T),
 etc. Also, we plot the relative importances of the input variables (as measured by a sensitivity
 analysis procedure).
-
-
-countryThe country that the wine is from
-description
-designationThe vineyard within the winery where the grapes that made the wine are from
-pointsThe number of points WineEnthusiast rated the wine on a scale of 1-100 (though they say they only post reviews for wines that score >=80)
-priceThe cost for a bottle of the wine
-provinceThe province or state that the wine is from
-region_1The wine growing area in a province or state (ie Napa)
-region_2Sometimes there are more specific regions specified within a wine growing area (ie Rutherford inside the Napa Valley), but this value can sometimes be blank
-taster_name
-taster_twitter_handle
-titleThe title of the wine review, which often contains the vintage if you're interested in extracting that feature
-varietyThe type of grapes used to make the wine (ie Pinot Noir)
-wineryThe winery that made the wine
