@@ -8,11 +8,11 @@ Mahtab Karimipour<br />
 
 Wine Quality Dataset for Vinho Verde red/white wine.
 
-#### Models Explored
-Classification<br />
-Random Forest / Cross Validation<br />
-KNN<br />
-Linear Regression<br />
+#### Model Used
+
+Random Forest Classifier/Cross Validation<br />
+Deep Learning<br />
+[Tableau](https://public.tableau.com/profile/mahtab1481#!/)<br />
 
 ## Attribute Information:
 
